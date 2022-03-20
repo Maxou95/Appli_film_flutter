@@ -1,6 +1,6 @@
 # film_projet
 
-A new Flutter project.
+Projet flutter réalisé en binôme.Ce binôme est composé de Aymeric et Maxime. Cette application consiste à lister des films, pouvoir voir le résumé. 
 
 ## Getting Started
 
@@ -14,3 +14,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Difficultés
+La suppression d'un élément de la liste
+Ajouter un élément en favoris
+
+
+
+
